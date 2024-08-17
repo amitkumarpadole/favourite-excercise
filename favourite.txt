@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Idli
 Dosa
 Sambhar wada
+=======
+Interstellar
+Gravity
+Kalki
+>>>>>>> movies
